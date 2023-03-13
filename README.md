@@ -1,4 +1,4 @@
-# ${Animal \space Image \space Classification}$
+# ${Pet \space Image \space Classification}$
 
 
 ## ${Project \space Overview}$
